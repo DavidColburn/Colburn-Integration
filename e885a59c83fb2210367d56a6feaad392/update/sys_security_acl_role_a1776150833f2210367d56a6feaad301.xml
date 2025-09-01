@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 08:55:57</sys_created_on>
+        <sys_id>a1776150833f2210367d56a6feaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1819012_colbur_0_colburn_integration.x_1819012_colbur_0.user</sys_name>
+        <sys_package display_value="Colburn Integration" source="x_1819012_colbur_0">e885a59c83fb2210367d56a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Colburn Integration">e885a59c83fb2210367d56a6feaad392</sys_scope>
+        <sys_security_acl display_value="x_1819012_colbur_0_colburn_integration">a1772150833f2210367d56a6feaad3fe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a1776150833f2210367d56a6feaad301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 08:55:57</sys_updated_on>
+        <sys_user_role display_value="x_1819012_colbur_0.user" name="x_1819012_colbur_0.user">2485a59c83fb2210367d56a6feaad3a1</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
