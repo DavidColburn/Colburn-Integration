@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>integration</name>
+        <password>﷞﷟﷒227812e08337a210367d56a6feaad35a﷬﷔1﷬﷭z29FTwwZVcI1Aaa9NPmFIg==ek-x_E3aaBKM416ROMFm0Nnu7WSBBI3pLvXFsOIcm-271rSp7mWVA4RwTRYySbsYxwIBL6kygKc=﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 07:08:36</sys_created_on>
+        <sys_id>d3589ea08337a210367d56a6feaad35d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>integration</sys_name>
+        <sys_package display_value="Colburn Integration" source="x_1819012_colbur_0">e885a59c83fb2210367d56a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Colburn Integration">e885a59c83fb2210367d56a6feaad392</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_d3589ea08337a210367d56a6feaad35d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 07:17:22</sys_updated_on>
+        <username>david.integration</username>
+    </sys_auth_profile_basic>
+</record_update>
